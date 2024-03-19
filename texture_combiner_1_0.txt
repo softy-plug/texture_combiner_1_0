@@ -1,0 +1,10 @@
+╭━━╮╱╭━┳╮╱╱╱╭━╮╱╱╱╱╱╱
+┃━━╋━┫━┫╰┳┳╮┃╋┣╮╭┳┳━╮
+┣━━┃╋┃╭┫╭┫┃┃┃╭┫╰┫┃┃╋┃
+╰━━┻━┻╯╰━╋╮┃╰╯╰━┻━╋╮┃
+╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱╰━╯
+softy_plug
+
+texture_combiner_1_0 - utility for create mixed texture from two different images
+
+.exe file and repository must be in same directory with image files
