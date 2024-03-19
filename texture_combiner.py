@@ -5,9 +5,12 @@ os.system("pip install opencv-contrib-python")
 os.system("pip install opencv-python-headless")
 os.system("pip install opencv-contrib-python-headless")
 os.system("pip install numpy")
+os.system("pip install np")
 
 import cv2
+# import np
 import numpy as np
+
 
 # Get the current working directory
 current_directory = os.path.dirname(os.path.abspath(__file__))
